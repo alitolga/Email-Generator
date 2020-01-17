@@ -1,4 +1,4 @@
-# Email-Generator
+# Email-Generator (Linked List Implementation)
 
 This is the second assignment I did in my Data Structures class, during my 2nd year in ITU CE. It reads the newStudentsList.txt file as input and keeps them in a linked list. The linked list is implemented by me, as it was the main goal of the homework.
 
